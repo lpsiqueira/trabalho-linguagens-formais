@@ -1,0 +1,13 @@
+q4: voltando pra procurar a transição marcada na maquina de turing
+q10: lendo os 1s do caracter atual da palavra
+q11: acabou os 1s do caracter marcado da palavra
+q15: caracter da palavra acabou e preciso verificar se é aceito
+q20: o caracter não é lido e a palavra não é aceita pelo automato
+
+
+q1a1a11Rq11#q11a11a111Lf#q11a1a11Rq1$a1a11
+q1a1a11Rq11#q11a11a111Lf$a1a11
+q1a11a11Rq11f$a1a11
+
+
+adicionar:
