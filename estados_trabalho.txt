@@ -8,6 +8,7 @@ q20: o caracter não é lido e a palavra não é aceita pelo automato
 q1a1a11Rq11#q11a11a111Lf#q11a1a11Rq1$a1a11
 q1a1a11Rq11#q11a11a111Lf$a1a11
 q1a11a11Rq11f$a1a11
+q1a1a11Rq11f$a11a11
 
 
 adicionar:
